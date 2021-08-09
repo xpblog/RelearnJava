@@ -1,4 +1,4 @@
-public class $02HelloWorld {
+public class $02HelloWorld { // **切记此处的Java类名，命名十分不规范，但是为了方便阅读所以才这样命名**
 
     /**
      * Java的运行入口是一个main方法，以后不管你的代码有多复杂，多牛逼
